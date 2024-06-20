@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jxyosoo (Jaylen)
+- 👋 Hi, I’m @jxyosoo (Jaylen Haney)
 - 👀 I’m interested in ...(Basketball and Software)
-- 🌱 I’m currently learning ...(Java, Python)
+- 🌱 I currently know ...(Java, Python, javascript, html, css)
 - 💞️ I’m looking to collaborate on ...(games and projects)
 - 📫 How to reach me ...(github or my email @jhaney3@lsu.edu)
 - 😄 Pronouns: ...
